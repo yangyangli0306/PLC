@@ -1,0 +1,10 @@
+F:\Learn\PLC\LearnPLC\bin\Debug\LearnPLC.exe.config
+F:\Learn\PLC\LearnPLC\bin\Debug\LearnPLC.exe
+F:\Learn\PLC\LearnPLC\bin\Debug\LearnPLC.pdb
+F:\Learn\PLC\LearnPLC\obj\Debug\LearnPLC.csproj.AssemblyReference.cache
+F:\Learn\PLC\LearnPLC\obj\Debug\LearnPLC.Form1.resources
+F:\Learn\PLC\LearnPLC\obj\Debug\LearnPLC.Properties.Resources.resources
+F:\Learn\PLC\LearnPLC\obj\Debug\LearnPLC.csproj.GenerateResource.cache
+F:\Learn\PLC\LearnPLC\obj\Debug\LearnPLC.csproj.CoreCompileInputs.cache
+F:\Learn\PLC\LearnPLC\obj\Debug\LearnPLC.exe
+F:\Learn\PLC\LearnPLC\obj\Debug\LearnPLC.pdb
